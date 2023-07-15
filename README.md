@@ -3,7 +3,7 @@
 
 ***Idioma***
 - 🇲🇽 Español
-- 🇺🇸 Inglés (*Aun no disponible*)
+- 🇺🇸 Inglés (*Aún no disponible*)
 
 
 Esta es una guía intermedia para aprender **C++** sin ningún conocimiento previo. Esta guía funcionará sin problemas para cualquier persona que busque aprender **C++** a pesar de que está diseñada para cubrir los conocimientos básicos necesarios en el concurso ***OMIJAL*** de **C++.**
