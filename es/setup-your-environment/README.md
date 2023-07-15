@@ -1,3 +1,3 @@
-# **Setup your Environment**
+# **Set up your Environment**
 
 Placeholder
