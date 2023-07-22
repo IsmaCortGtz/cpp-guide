@@ -25,6 +25,6 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 
 ## **Licencia**
 
-Este proyecto está publicado y distribuido bajo los términos de la **licencia** [***GPL v3***](https://www.gnu.org/licenses/gpl-3.0)
+Este proyecto está publicado y distribuido bajo los términos de la **licencia** [***GPL v3***](https://www.gnu.org/licenses/gpl-3.0).
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
