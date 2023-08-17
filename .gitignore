@@ -1,0 +1,6 @@
+# VSCode config data
+.vscode
+
+# C++ output files
+*.out
+bin/

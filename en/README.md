@@ -1,4 +1,4 @@
-# **Not ready yet**
+# **C++ Guide**
 
 The ***English*** version of this guide isn't ready yet. 🇺🇲
 
