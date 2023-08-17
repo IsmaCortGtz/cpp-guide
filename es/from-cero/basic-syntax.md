@@ -94,7 +94,7 @@ Utilizando toda la información anterior crea un programa sencillo que muestre l
 Hello World!
 ```
 
-Puedes ver mi solución al problema y ejecutarla tu mismo [aquí](./hello-world.cpp).
+Puedes ver mi solución al problema y ejecutarla tu mismo [aquí](../../code/hello-world.cpp).
 
 
 
