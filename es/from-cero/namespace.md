@@ -75,6 +75,6 @@ Además, es importante aclarar que esta no es la unica solucón, pues puedes imp
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="./basic-syntax.md#sintaxis-basica"><=  Sintaxis Básica  </a></b></td>
+  <td><b><a href="./basic-syntax.md#sintaxis-básica"><=  Sintaxis Básica  </a></b></td>
   <td><b><a href="#">  Siguiente  =></a></b></td>
 </tr></table></div>

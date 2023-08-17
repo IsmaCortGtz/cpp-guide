@@ -19,5 +19,5 @@ Es posible que durante esta sección encuentres términos que no conozcas, en es
 
 <hr><div align="center"><table><tr>
   <td><b><a href="../definitions/README.md#conceptos-básicos"><=  Conceptos básicos  </a></b></td>
-  <td><b><a href="./basic-syntax.md#sintaxis-basica">  Sintaxis Básica  =></a></b></td>
+  <td><b><a href="./basic-syntax.md#sintaxis-básica">  Sintaxis Básica  =></a></b></td>
 </tr></table></div>
