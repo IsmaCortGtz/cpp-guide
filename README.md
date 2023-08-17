@@ -41,5 +41,5 @@ Este proyecto está publicado y distribuido bajo los términos de la **licencia*
 
 <hr><div align="center"><table><tr>
   <td><b><a href="#guía-c"><=  Anterior  </a></b></td>
-  <td><b><a href="./es/setup-your-environment/README.md">  Siguiente  =></a></b></td>
+  <td><b><a href="./es/setup-your-environment/README.md">  Configurando un entorno  =></a></b></td>
 </tr></table></div>

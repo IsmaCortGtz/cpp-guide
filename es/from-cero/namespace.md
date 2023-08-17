@@ -71,3 +71,10 @@ int main(){
 De esta forma, aunque ambas librerias tengan funciones iguales, al identificarlas con su espacio de nombre correspondiente evitamos errores. Aunque en realidad si pruebas este codigo no funcionaria por si solo dado que dichas librerias no existen, seria necesario crearlas manualmente para poner este ejemplo en acción.
 
 Además, es importante aclarar que esta no es la unica solucón, pues puedes importar en el espacio de nombre solo una de las dos librerias. Incluso no es necesario que la declaracion del `namespace` se haga debajo de las importaciones, puede ponerse dentro de una función o un bloque de codigo de ser necesario, pero en el resto de casos se recomienda ponerlo como se muestra. 
+
+
+
+<hr><div align="center"><table><tr>
+  <td><b><a href="./basic-syntax.md#sintaxis-basica"><=  Sintaxis Básica  </a></b></td>
+  <td><b><a href="#">  Siguiente  =></a></b></td>
+</tr></table></div>
