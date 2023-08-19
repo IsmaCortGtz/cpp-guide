@@ -41,10 +41,10 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 
 Puedes ayudar a contribuir con las traducciones a inglés o con la corrección de errores. Para hacerlo, sigue estas instrucciones. A priori no busco ayuda para agregar contenido nuevo, por lo que es muy probable que un PR de este tipo sea rechazado.
 
-1. Haz un fork en tu cuenta de GitHub del proyecto.
+1. Haz un `fork` en tu cuenta de GitHub del proyecto.
 2. Realiza los cambios pertinentes en una nueva rama en tu repositorio local.
 3. Sube tus cambios a tu repositorio en GitHub.
-4. Abre un Pull Request, trata de ser detallado en la descripción de los cambios para acelerar el merge.
+4. Abre un `Pull Request`, trata de ser detallado en la descripción de los cambios para acelerar el `merge`.
 
 
 
