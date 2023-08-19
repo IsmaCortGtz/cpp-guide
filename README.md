@@ -28,11 +28,11 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 - [Configurando un entorno](./es/setup-your-environment/README.md)
 - [Conceptos básicos](./es/definitions/README.md)
 - [Desde 0](./es/from-cero/README.md)
-  - [Sintaxis Básica](./es/from-cero/basic-syntax.md#sintaxis-básica-📗)
+  - [Sintaxis Básica](./es/from-cero/basic-syntax.md#sintaxis-básica-)
     - [Importaciones](./es/from-cero/basic-syntax.md#importaciones)
     - [Función `main`](./es/from-cero/basic-syntax.md#función-main)
     - [Entrada y Salida de datos](./es/from-cero/basic-syntax.md#entrada-y-salida-de-datos)
-    - [Creando tu propio `Hello World!`](./es/from-cero/basic-syntax.md#creando-tu-propio-hello-world-👋)
+    - [Creando tu propio `Hello World!`](./es/from-cero/basic-syntax.md#creando-tu-propio-hello-world-)
   - [Espacio de nombres: `namespace`](./es/from-cero/namespace.md)
 
 

@@ -13,11 +13,11 @@ int main(){
 
 ## Tabla de Contenidos 🔍
 
-- [Sintaxis Básica](#sintaxis-básica-📗)
+- [Sintaxis Básica](#sintaxis-básica-)
   - [Importaciones](#importaciones)
   - [Función `main`](#función-main)
   - [Entrada y Salida de datos](#entrada-y-salida-de-datos)
-  - [Creando tu propio `Hello World!`](#creando-tu-propio-hello-world-👋)
+  - [Creando tu propio `Hello World!`](#creando-tu-propio-hello-world-)
 
 
 
@@ -99,6 +99,6 @@ Puedes ver mi solución al problema y ejecutarla tu mismo [aquí](../../code/hel
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="./README.md#desde-0-🔰"><=  Desde 0  </a></b></td>
+  <td><b><a href="./README.md#desde-0-"><=  Desde 0  </a></b></td>
   <td><b><a href="./namespace.md">  Espacio de nombres: namespace  =></a></b></td>
 </tr></table></div>

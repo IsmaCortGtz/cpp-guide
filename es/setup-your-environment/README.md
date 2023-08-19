@@ -21,5 +21,5 @@ Aquí hay varias opciones para poder montar un buen entorno de desarrollo. En ci
 
 <hr><div align="center"><table><tr>
   <td><b><a href="../../README.md#guía-c"><=  Guía C++  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos-📖">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="../definitions/README.md#conceptos-básicos-">  Conceptos básicos  =></a></b></td>
 </tr></table></div>

@@ -5,13 +5,13 @@ Si tomaste la opción de `Visual Studio Code` como tu IDE entonces esta es tu se
 
 ## Tabla de Contenidos 🔍
 
-- [Instalar VS Code](#instalar-vs-code-📩)
-- [Instalar un Compilador](#instalar-un-compilador-📩)
+- [Instalar VS Code](#instalar-vs-code-)
+- [Instalar un Compilador](#instalar-un-compilador-)
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
-- [Configurar la extensión C/C++](#configurar-la-extensión-cc-⚙️)
-- [Ejemplo de uso](#ejemplo-de-uso-🧠)
+- [Configurar la extensión C/C++](#configurar-la-extensión-cc-)
+- [Ejemplo de uso](#ejemplo-de-uso-)
 
 
 
@@ -94,5 +94,5 @@ Para esto bastará con instalar las extensiones necesarias y estás automáticam
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./README.md"><=  Configurando un entorno  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos-📖">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="../definitions/README.md#conceptos-básicos-">  Conceptos básicos  =></a></b></td>
 </tr></table></div>

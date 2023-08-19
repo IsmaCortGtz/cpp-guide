@@ -5,8 +5,8 @@ Si tomaste la opción de `DevCpp` como tu IDE entonces esta es tu sección, si n
 
 ## Tabla de Contenidos 🔍
 
-- [Instalación](#instalación-📩)
-- [Ejemplo de uso](#ejemplo-de-uso-🧠)
+- [Instalación](#instalación-)
+- [Ejemplo de uso](#ejemplo-de-uso-)
 
 
 
@@ -33,5 +33,5 @@ Para el caso de `DevCpp` el software solo se encuentra disponible para Windows, 
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./README.md"><=  Configurando un entorno  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos-📖">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="../definitions/README.md#conceptos-básicos-">  Conceptos básicos  =></a></b></td>
 </tr></table></div>
