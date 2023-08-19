@@ -1,21 +1,21 @@
-# Configura VS Code
+# Configura VS Code ⚙️
 
 Si tomaste la opción de `Visual Studio Code` como tu IDE entonces esta es tu sección, si no es así vuelve a la sección *[Configura tu entorno](./README.md)* y selecciona otro enlace.
 
 
-## Tabla de Contenidos
+## Tabla de Contenidos 🔍
 
-- [Instalar VS Code](#instalar-vscode)
-- [Instalar un Compilador](#instalar-vscode)
+- [Instalar VS Code](#instalar-vs-code-📩)
+- [Instalar un Compilador](#instalar-un-compilador-📩)
   - [Windows](#windows)
   - [MacOS](#macos)
   - [Linux](#linux)
-- [Configurar la extensión C/C++]()
-- [Ejemplo de uso](#ejemplo-de-uso)
+- [Configurar la extensión C/C++](#configurar-la-extensión-cc-⚙️)
+- [Ejemplo de uso](#ejemplo-de-uso-🧠)
 
 
 
-## Instalar VS Code
+## Instalar VS Code 📩
 
 1. Accede a la web oficial en su sección de descargas con [este link](https://code.visualstudio.com/download).
 2. Identifica la versión que prefieras, te recomiendo usar el gran botón azul correspondiente a tu sistema operativo.
@@ -23,7 +23,7 @@ Si tomaste la opción de `Visual Studio Code` como tu IDE entonces esta es tu se
 
 
 
-## Instalar un Compilador
+## Instalar un Compilador 📩
 
 ### Windows
 
@@ -59,7 +59,7 @@ Si obtienes algún error al ejecutar el comando es posible que el compilador no 
 
 
 
-## Configurar la extensión C/C++
+## Configurar la extensión C/C++ ⚙️
 
 Para esto bastará con instalar las extensiones necesarias y estás automáticamente buscarán el compilador en tu sistema (claro, si realizaste la instalación adecuadamente).
 
@@ -70,7 +70,7 @@ Para esto bastará con instalar las extensiones necesarias y estás automáticam
 
 
 
-## Ejemplo de uso
+## Ejemplo de uso 🧠
 
 1. Una vez que queramos ejecutar nuestro código ***C/C++***, primero iremos a la parte superior derecha y presionaremos en la pequeña flecha que está después del icono de `Play`.
 
@@ -94,5 +94,5 @@ Para esto bastará con instalar las extensiones necesarias y estás automáticam
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./README.md"><=  Configurando un entorno  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="../definitions/README.md#conceptos-básicos-📖">  Conceptos básicos  =></a></b></td>
 </tr></table></div>

@@ -1,16 +1,16 @@
-# Configura DevCpp
+# Configura DevCpp ⚙️
 
 Si tomaste la opción de `DevCpp` como tu IDE entonces esta es tu sección, si no es así vuelve a la sección *[Configura tu entorno](./README.md)* y selecciona otro enlace.
 
 
-## Tabla de Contenidos
+## Tabla de Contenidos 🔍
 
-- [Instalación](#instalación)
-- [Ejemplo de uso](#ejemplo-de-uso)
+- [Instalación](#instalación-📩)
+- [Ejemplo de uso](#ejemplo-de-uso-🧠)
 
 
 
-## Instalación
+## Instalación 📩
 
 Para el caso de `DevCpp` el software solo se encuentra disponible para Windows, si tú estás utilizando Linux, macOS o cualquier otro sistema te recomiendo usar una de las otras opciones listadas en la sección *[Configura tu entorno](./README.md)*.
 
@@ -25,7 +25,7 @@ Para el caso de `DevCpp` el software solo se encuentra disponible para Windows, 
 
 
 
-## Ejemplo de uso
+## Ejemplo de uso 🧠
 
 *Aún en progreso*
 
@@ -33,5 +33,5 @@ Para el caso de `DevCpp` el software solo se encuentra disponible para Windows, 
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./README.md"><=  Configurando un entorno  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="../definitions/README.md#conceptos-básicos-📖">  Conceptos básicos  =></a></b></td>
 </tr></table></div>

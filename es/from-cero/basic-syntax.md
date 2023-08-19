@@ -1,4 +1,4 @@
-# Sintaxis Básica
+# Sintaxis Básica 📗
 
 Este es un ejemplo de un ***Hello World*** básico en **C++**, un ***Hello World*** es un programa básico que se usa comúnmente para realizar funciones básicas de un lenguaje de programación, normalmente imprimir dicha frase en pantalla.
 
@@ -11,13 +11,13 @@ int main(){
 }
 ```
 
-## Tabla de Contenidos
+## Tabla de Contenidos 🔍
 
-- [Sintaxis Básica](#sintaxis-basica)
+- [Sintaxis Básica](#sintaxis-básica-📗)
   - [Importaciones](#importaciones)
   - [Función `main`](#función-main)
   - [Entrada y Salida de datos](#entrada-y-salida-de-datos)
-  - [Creando tu propio `Hello World!`](#creando-tu-propio-hello-world)
+  - [Creando tu propio `Hello World!`](#creando-tu-propio-hello-world-👋)
 
 
 
@@ -83,7 +83,7 @@ cin >> numeroDeVueltas;
 
 
 
-## Creando tu propio `Hello World!`
+## Creando tu propio `Hello World!` 👋
 
 Utilizando toda la información anterior crea un programa sencillo que muestre la frase `Hello World!`.
 
@@ -99,6 +99,6 @@ Puedes ver mi solución al problema y ejecutarla tu mismo [aquí](../../code/hel
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="./README.md#desde-0"><=  Desde 0  </a></b></td>
+  <td><b><a href="./README.md#desde-0-🔰"><=  Desde 0  </a></b></td>
   <td><b><a href="./namespace.md">  Espacio de nombres: namespace  =></a></b></td>
 </tr></table></div>
