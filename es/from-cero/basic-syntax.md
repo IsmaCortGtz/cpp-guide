@@ -1,4 +1,4 @@
-# **Sintaxis Básica**
+# Sintaxis Básica
 
 Este es un ejemplo de un ***Hello World*** básico en **C++**, un ***Hello World*** es un programa básico que se usa comúnmente para realizar funciones básicas de un lenguaje de programación, normalmente imprimir dicha frase en pantalla.
 
@@ -11,7 +11,7 @@ int main(){
 }
 ```
 
-## **Tabla de Contenidos**
+## Tabla de Contenidos
 
 - [Sintaxis Básica](#sintaxis-basica)
   - [Importaciones](#importaciones)
@@ -21,7 +21,7 @@ int main(){
 
 
 
-### **Importaciones**
+### Importaciones
 
 Analicemos este código parte por parte, primero tenemos la primera línea la cual nos sirve para importar librerías, en este caso la librería que importamos es `iostream` la cual incluye funciones básicas para trabajar con entradas y salidas de texto principalmente.
 
@@ -31,7 +31,7 @@ Analicemos este código parte por parte, primero tenemos la primera línea la cu
 
 
 
-### **Función `main`**
+### Función `main`
 
 Esta parte del código incluye la función `main`, más adelante trabajaremos más a detalle con la creación de funciones, por ahora basta con tener en cuenta que esta función es donde debemos de poner todo nuestro código para nuestra aplicación entre las llaves `{}`, desde crear variables, sumas, imprimir en pantalla, etc. Existen una serie de cosas que se pueden establecer fuera de la función `main` como constantes u otras funciones.
 
@@ -48,7 +48,7 @@ int main(){
 
 
 
-### **Entrada y Salida de datos**
+### Entrada y Salida de datos
 
 ```cpp
 std::cout << "Hello World!" << std::endl;
@@ -83,7 +83,7 @@ cin >> numeroDeVueltas;
 
 
 
-## **Creando tu propio `Hello World!`**
+## Creando tu propio `Hello World!`
 
 Utilizando toda la información anterior crea un programa sencillo que muestre la frase `Hello World!`.
 

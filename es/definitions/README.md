@@ -1,6 +1,6 @@
-# **Conceptos Básicos**
+# Conceptos Básicos
 
-### ***Trabajo en proceso***
+### *Trabajo en proceso*
 
 - libreria
 - escalabilidad

@@ -1,4 +1,4 @@
-# **Configura Code::Blocks**
+# Configura Code::Blocks
 
 Si tomaste la opción de `Code::Blocks` como tu IDE entonces esta es tu sección, si no es así vuelve a la sección *[Configura tu entorno](./README.md)* y selecciona otro enlace.
 

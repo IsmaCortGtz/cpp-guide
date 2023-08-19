@@ -1,4 +1,4 @@
-# **Desde 0**
+# Desde 0
 
 En esta sección revisaremos los conocimientos básicos necesarios para programar utilizando **C++** sin ningún conocimiento previo. El único requisito para llevar a cabo esta sección es tener un entorno configurado, puedes revisar la sección: [Configurando un entorno](../setup-your-environment/README.md).
 
@@ -6,7 +6,7 @@ Es posible que durante esta sección encuentres términos que no conozcas, en es
 
 
 
-## **Tabla de Contenidos**
+## Tabla de Contenidos
 
 - [Sintaxis Básica](./basic-syntax.md#sintaxis-basica)
   - [Importaciones](./basic-syntax.md#importaciones)

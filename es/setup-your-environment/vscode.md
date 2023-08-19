@@ -1,4 +1,4 @@
-# **Configura VS Code**
+# Configura VS Code
 
 Si tomaste la opción de `Visual Studio Code` como tu IDE entonces esta es tu sección, si no es así vuelve a la sección *[Configura tu entorno](./README.md)* y selecciona otro enlace.
 
@@ -33,9 +33,9 @@ En caso de que estés en un sistema de 32bits o prefieras usar otra opción, te 
 
 
 
-### MacOS
+### macOS
 
-Existen varias opciones para instalar C++ en macOS, puedes instalar el entorno completo de `XCode` desde la Mac Store o desde este link, esto te dará acceso a c++ desde la terminal.
+Existen varias opciones para instalar C++ en macOS, puedes instalar el entorno completo de `XCode` desde la Mac Store o desde [este link](https://developer.apple.com/download/all/?q=xcode), esto te dará acceso a C++ desde la terminal.
 
 O puedes optar por instalar solo el paquete de línea de comandos, para esto basta con poner en la terminal el siguiente comando.
 

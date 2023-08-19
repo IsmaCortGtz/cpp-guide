@@ -1,4 +1,4 @@
-# **Espacio de nombres: `namespace`**
+# Espacio de nombres: `namespace`
 
 En los niveles básicos de ***C++*** es comun agregar la linea `using namespace std;` debajo de la importación de librerias. Esto con el proposito de limpiar un poco el codigo y hacerlo más sencillo para los programadores novatos, es importante estar al tanto de esto pues para programas basicos y para la ***OMIJAL*** probablemente no haya problemas en usarlo, pero si necesitamos crear codigo escalable o con muchas dependencias es probable que pueda ser un problema definir el espacio de nombres así.
 

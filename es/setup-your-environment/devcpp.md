@@ -1,4 +1,4 @@
-# **Configura DevCpp**
+# Configura DevCpp
 
 Si tomaste la opción de `DevCpp` como tu IDE entonces esta es tu sección, si no es así vuelve a la sección *[Configura tu entorno](./README.md)* y selecciona otro enlace.
 

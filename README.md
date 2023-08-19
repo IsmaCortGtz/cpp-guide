@@ -17,13 +17,13 @@ Esta es una guía intermedia para aprender **C++** sin ningún conocimiento prev
 
 
 
-## **Nota importante**
+## Nota importante
 
 Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***, o ninguna otra entidad estatal, federal o gubernamental. Este es un proyecto independiente creado con el propósito de apoyar a futuros participantes, y bajo ningún concepto se permite el uso de este material para fines de lucro.
 
 
 
-## **Tabla de Contenidos**
+## Tabla de Contenidos
 
 - [Configurando un entorno](./es/setup-your-environment/README.md)
 - [Conceptos básicos](./es/definitions/README.md)
@@ -37,7 +37,7 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 
 
 
-## **¿Cómo contribuir?**
+## ¿Cómo contribuir?
 
 Puedes ayudar a contribuir con las traducciones a inglés o con la corrección de errores. Para hacerlo, sigue estas instrucciones. A priori no busco ayuda para agregar contenido nuevo, por lo que es muy probable que un PR de este tipo sea rechazado.
 
@@ -48,7 +48,7 @@ Puedes ayudar a contribuir con las traducciones a inglés o con la corrección d
 
 
 
-## **Licencia**
+## Licencia
 
 Este proyecto está publicado y distribuido bajo los términos de la **licencia** [***GPL v3***](https://www.gnu.org/licenses/gpl-3.0).
 
