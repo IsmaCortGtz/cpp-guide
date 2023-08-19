@@ -6,7 +6,7 @@ Es posible que durante esta sección encuentres términos que no conozcas, en es
 
 
 
-## Tabla de Contenidos 📢
+## Tabla de Contenidos 🔍
 
 - [Sintaxis Básica](./basic-syntax.md#sintaxis-básica-)
   - [Importaciones](./basic-syntax.md#importaciones)
