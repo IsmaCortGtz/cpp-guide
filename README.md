@@ -1,4 +1,11 @@
-# **Guía C++**
+<p>
+  <img align="left" height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
+  <h1>Guía C++</h1>
+</p>
+
+[![Lenguaje: C++](https://img.shields.io/badge/Lenguaje-C++-red)](https://en.wikipedia.org/wiki/C++)
+[![Licencia: GPL v3](https://img.shields.io/badge/Licencia-GPLv3-blue)](https://www.gnu.org/licenses/gpl-3.0)
+
 
 
 ***Idioma***
@@ -35,7 +42,7 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 
 Este proyecto está publicado y distribuido bajo los términos de la **licencia** [***GPL v3***](https://www.gnu.org/licenses/gpl-3.0).
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Licencia: GPL v3](https://img.shields.io/badge/Licencia-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 
 
