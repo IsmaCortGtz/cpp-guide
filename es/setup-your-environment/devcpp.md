@@ -27,7 +27,17 @@ Para el caso de `DevCpp` el software solo se encuentra disponible para Windows, 
 
 ## Ejemplo de uso 🧠
 
-*Aún en progreso*
+1. Podemos crear un archivo nuevo si damos click en el primer icono de arriba a la izquierda y después en `Archivo fuente`, o también podemos usar el atajo de teclado `Ctrl+N`.
+
+<img align="center" width="80%" src="../../sources/devcpp-usage-01.png">
+<img align="center" width="80%" src="../../sources/devcpp-usage-02.png"><br>
+
+2. Una vez tengamos nuestro código terminado o queramos ejecutarlo, solo tenemos que presionar el icono con forma de *ventana con marcos* que está en la parte superior central. Este botón nos permite compilar y ejecutar el código. También podemos usar el atajo de teclado `F11`.
+
+<img align="center" width="80%" src="../../sources/devcpp-usage-03.png">
+<img align="center" width="80%" src="../../sources/devcpp-usage-04.png"><br>
+
+***NOTA:*** Este IDE también nos permite compilar y gestionar grandes proyectos de una forma muy sencilla, pero esa característica no será necesaria para esta guía.
 
 
 

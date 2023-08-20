@@ -27,7 +27,17 @@ Bien, el primer paso es verificar nuestras necesidades, pues la página oficial 
 
 ## Ejemplo de uso 🧠
 
-*Aún en progreso*
+1. Podemos crear un archivo nuevo si damos click en el primer icono de arriba a la izquierda y después en `Empty File`.
+
+<img align="center" width="80%" src="../../sources/codeblocks-usage-01.png">
+<img align="center" width="80%" src="../../sources/codeblocks-usage-02.png"><br>
+
+2. Una vez tengamos nuestro código terminado o queramos ejecutarlo, solo tenemos que presionar el icono con forma de *engranaje y play* que está en la parte superior central. Este botón nos permite compilar y ejecutar el código.
+
+<img align="center" width="80%" src="../../sources/codeblocks-usage-03.png">
+<img align="center" width="80%" src="../../sources/codeblocks-usage-04.png"><br>
+
+***NOTA:*** Este IDE también nos permite compilar y gestionar grandes proyectos de una forma muy sencilla, pero esa característica no será necesaria para esta guía.
 
 
 
