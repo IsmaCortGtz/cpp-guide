@@ -29,7 +29,7 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
   - [DevCpp](./es/setup/devcpp.md.md)
   - [Code::Blocks](./es/setup/codeblocks.md)
   - [VS Code](./es/setup/vscode.md.md)
-- [Conceptos básicos](./es/definitions/README.md)
+- [Conceptos básicos](./es/concepts/README.md)
 - [Desde 0](./es/beginner/README.md)
   - [Importaciones](./es/beginner/include.md)
   - [Salida y entrada de datos](./es/beginner/input-output.md)

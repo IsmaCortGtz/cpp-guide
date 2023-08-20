@@ -94,5 +94,5 @@ Para esto bastará con instalar las extensiones necesarias y estás automáticam
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./codeblocks.md">⬅ Code::Blocks</a></b></td>
-  <td><b><a href="../definitions/README.md">Conceptos básicos ⮕</a></b></td>
+  <td><b><a href="../concepts/README.md">Conceptos básicos ⮕</a></b></td>
 </tr></table></div>

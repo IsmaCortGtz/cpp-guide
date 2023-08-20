@@ -29,6 +29,6 @@ Además, puedes revisar la [sección de ejercicios](./practice.md) donde están 
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="../definitions/README.md#conceptos-básicos-">⬅ Conceptos básicos</a></b></td>
+  <td><b><a href="../concepts/README.md">⬅ Conceptos básicos</a></b></td>
   <td><b><a href="./include.md">Importaciones ⮕</a></b></td>
 </tr></table></div>

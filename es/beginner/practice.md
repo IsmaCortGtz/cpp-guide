@@ -76,9 +76,3 @@ int main(){
   <td><b><a href="#ejercicio-2-a-calcular">⬅ Anterior</a></b></td>
   <td><b><a href="#ejercicio-2-a-calcular">Siguiente ⮕</a></b></td>
 </tr></table></div><hr>
-
-
-
-<div align="center"><table><tr>
-  <td><b><a href="./README.md">⬅ Desde 0</a></b></td>
-</tr></table></div>
