@@ -25,15 +25,25 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
 
 ## Tabla de Contenidos 🔍
 
-- [Configurando un entorno](./es/setup-your-environment/README.md)
+- [Configurando un entorno](./es/setup/README.md)
+  - [DevCpp](./es/setup/devcpp.md.md)
+  - [Code::Blocks](./es/setup/codeblocks.md)
+  - [VS Code](./es/setup/vscode.md.md)
 - [Conceptos básicos](./es/definitions/README.md)
-- [Desde 0](./es/from-cero/README.md)
-  - [Sintaxis Básica](./es/from-cero/basic-syntax.md#sintaxis-básica-)
-    - [Importaciones](./es/from-cero/basic-syntax.md#importaciones)
-    - [Función `main`](./es/from-cero/basic-syntax.md#función-main)
-    - [Entrada y Salida de datos](./es/from-cero/basic-syntax.md#entrada-y-salida-de-datos)
-    - [Creando tu propio `Hello World!`](./es/from-cero/basic-syntax.md#creando-tu-propio-hello-world-)
-  - [Espacio de nombres: `namespace`](./es/from-cero/namespace.md)
+- [Desde 0](./es/beginner/README.md)
+  - [Importaciones](./es/beginner/include.md)
+  - [Salida y entrada de datos](./es/beginner/input-output.md)
+  <!-- - [Variables](#)
+  - [Tipos de datos](#)
+  - [Funcion `main`](#)
+  - [Secuencias de escape](#) -->
+  - [***⮕ Ejercicio #1: Hello World ⬅***](./es/beginner/practice.md#ejercicio-1-hello-world)
+  <!-- - [Operadores](#)
+  - [***⮕ Ejercicio #2: A calcular! ⬅***](./es/beginner/practice.md#ejercicio-2-a-calcular)
+  - [Espacio de nombres](./namespace.md)
+  - [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](#)
+  - [Condicional `if`](#)
+  - [Condicional `switch`](#) -->
 
 
 
@@ -57,6 +67,6 @@ Este proyecto está publicado y distribuido bajo los términos de la **licencia*
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="#guía-c"><=  Anterior  </a></b></td>
-  <td><b><a href="./es/setup-your-environment/README.md">  Configurando un entorno  =></a></b></td>
+  <td><b><a href="#guía-c">⬅ Inicio</a></b></td>
+  <td><b><a href="./es/setup/README.md">Configurando un entorno ⮕</a></b></td>
 </tr></table></div>

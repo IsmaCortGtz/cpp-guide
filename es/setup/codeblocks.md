@@ -42,6 +42,6 @@ Bien, el primer paso es verificar nuestras necesidades, pues la página oficial 
 
 
 <hr><div align="center"><table><tr>
-  <td><b><a href="./README.md"><=  Configurando un entorno  </a></b></td>
-  <td><b><a href="../definitions/README.md#conceptos-básicos-">  Conceptos básicos  =></a></b></td>
+  <td><b><a href="./devcpp.md">⬅ DevCpp</a></b></td>
+  <td><b><a href="./vscode.md">VS Code ⮕</a></b></td>
 </tr></table></div>
