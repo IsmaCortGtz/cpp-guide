@@ -18,7 +18,7 @@ Además, puedes revisar la [sección de ejercicios](./practice.md) donde están 
 - [Tipos de datos](#)
 - [Funcion `main`](#)
 - [Secuencias de escape](#) -->
-- [***⮕ Ejercicio #1: Hello World ⬅***](./practice.md#ejercicio-1-hello-world)
+- [***⮕ Ejercicio #1: `Hello World!` ⬅***](./practice.md#ejercicio-1-hello-world)
 <!-- - [Operadores](#)
 - [***⮕ Ejercicio #2: A calcular! ⬅***](./practice.md#ejercicio-2-a-calcular)
 - [Espacio de nombres](./namespace.md)

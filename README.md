@@ -37,7 +37,7 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
   - [Tipos de datos](#)
   - [Funcion `main`](#)
   - [Secuencias de escape](#) -->
-  - [***⮕ Ejercicio #1: Hello World ⬅***](./es/beginner/practice.md#ejercicio-1-hello-world)
+  - [***⮕ Ejercicio #1: `Hello World!` ⬅***](./es/beginner/practice.md#ejercicio-1-hello-world)
   <!-- - [Operadores](#)
   - [***⮕ Ejercicio #2: A calcular! ⬅***](./es/beginner/practice.md#ejercicio-2-a-calcular)
   - [Espacio de nombres](./namespace.md)
