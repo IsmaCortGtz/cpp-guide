@@ -14,17 +14,19 @@ Además, puedes revisar la [sección de ejercicios](./practice.md) donde están 
 
 - [Importaciones](./include.md)
 - [Salida y entrada de datos](./input-output.md)
-<!-- - [Variables](#)
-- [Tipos de datos](#)
-- [Funcion `main`](#)
-- [Secuencias de escape](#) -->
+- [Comentarios](./comments.md)
+- [Variables](./variables.md)
+- [Tipos de datos](./data-types.md)
+- [Funcion `main`]
+- [Secuencias de escape]
 - [***⮕ Ejercicio #1: `Hello World!` ⬅***](./practice.md#ejercicio-1-hello-world)
-<!-- - [Operadores](#)
+- [Operadores]
 - [***⮕ Ejercicio #2: A calcular! ⬅***](./practice.md#ejercicio-2-a-calcular)
 - [Espacio de nombres](./namespace.md)
-- [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](#)
-- [Condicional `if`](#)
-- [Condicional `switch`](#) -->
+- [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***]
+- [Arreglos]
+- [Condicional `if`]
+- [Condicional `switch`]
 
 
 

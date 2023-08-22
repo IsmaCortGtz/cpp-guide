@@ -2,6 +2,11 @@
 
 Si eres nuevo en este tema o en general no tienes mucha experiencia con los términos comunes en el desarrollo de software, esta sección te será de ayuda, pues aquí intentaré listar todos los términos utilizados en esta guía tanto en español como en inglés, además de una explicación de estos términos, y de ser necesario, un poco de contexto.
 
+## Palabras pendientes por añadir
+
+- Palabra reservada.
+- sintaxis.
+
 ## Tabla de Contenidos 🔍
 
 - [Librería / Library](#librería--library)

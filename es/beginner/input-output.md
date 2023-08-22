@@ -1,4 +1,4 @@
-# Salida y entrada de datos 🖥️⌨️
+# Salida y entrada de datos 🖥️ ⌨️
 
 Cuando desarrollamos una app, comúnmente necesitamos mostrarle información al usuario o pedirle algún dato. Y para esto es que se vuelve superimportante la entrada y salida de datos. En **C++** necesitamos la librería `iostream` para poder hacerlo, y para ello usamos las palabras `cout` y `cin` respectivamente.
 
@@ -77,11 +77,46 @@ A esto
 
 ## Entrada de datos
 
-*Aun en progreso*
+La entrada de datos es muy similar a la salida de datos, al igual que esta última, la entrada de datos usa una palabra llamada `cin`, la cual pertenece a la librería `iostream`, y al igual que al imprimir datos, es posible que tengamos que usarlo de la forma `std::cin`.
+
+```cpp
+string textVar;
+std::cin >> textVar;
+
+int numero;
+std::cin >> numero;
+```
+
+El ejemplo anterior cuenta con dos casos, en el primero guardamos en una `variable` de texto algo que el usuario introduce, y en la segunda guardamos un número entero en la variable `numero`. El tema de variables y tipos de datos se revisará más adelante.
+
+Es importante saber que `cin` seguirá dándole información a nuestra variable hasta que el usuario use la tecla `Enter`, a menos de que el tipo de dato no permita ese tipo de información, en ese caso podría dar un error.
+
+Para dejar más claro el asunto, este es un ejemplo de un programa que le pide al usuario su nombre y luego lo imprime en pantalla:
+
+```cpp
+#include <iostream>
+
+int main(){
+  string nombre;
+
+  std::cout << "Cual es tu nombre? ";
+  std::cin >> nombre;
+
+  std::cout << "Hola " << nombre << ". (:" << std::endl;
+  return 0;
+}
+```
+
+Resultado:
+
+```txt
+Cual es tu nombre? IsmaCortGtz
+Hola IsmaCortGtz. (:
+```
 
 
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./include.md">⬅ Importaciones</a></b></td>
-  <td><b><a href="./practice.md#ejercicio-1-hello-world">Ejercicio #1: Hello World ⮕</a></b></td>
+  <td><b><a href="./comments.md">Comentarios ⮕</a></b></td>
 </tr></table></div>
