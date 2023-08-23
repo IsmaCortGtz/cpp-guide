@@ -42,7 +42,7 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
   - Operadores
   - [***⮕ Ejercicio #2: A calcular! ⬅***](./es/beginner/practice.md#ejercicio-2-a-calcular)
   - [Espacio de nombres](./es/beginner/namespace.md)
-  - ***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***
+  - [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](./es/beginner/practice.md#ejercicio-3-evitando-coliciones-en-el-namespace)
   - Arreglos
   - Condicional `if`
   - Condicional `switch`

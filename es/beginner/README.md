@@ -23,7 +23,7 @@ Además, puedes revisar la [sección de ejercicios](./practice.md) donde están 
 - [Operadores]
 - [***⮕ Ejercicio #2: A calcular! ⬅***](./practice.md#ejercicio-2-a-calcular)
 - [Espacio de nombres](./namespace.md)
-- [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***]
+- [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](./practice.md#ejercicio-3-evitando-coliciones-en-el-namespace)
 - [Arreglos]
 - [Condicional `if`]
 - [Condicional `switch`]
