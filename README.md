@@ -36,13 +36,14 @@ Este repositorio no tiene ninguna relación oficial con ***OMI***, ***SOLACyT***
   - [Comentarios](./es/beginner/comments.md)
   - [Variables](./es/beginner/variables.md)
   - [Tipos de datos](./es/beginner/data-types.md)
-  - Funcion `main`
   - Secuencias de escape
   - [***⮕ Ejercicio #1: `Hello World!` ⬅***](./es/beginner/practice.md#ejercicio-1-hello-world)
   - Operadores
   - [***⮕ Ejercicio #2: A calcular! ⬅***](./es/beginner/practice.md#ejercicio-2-a-calcular)
+  - [Funciones](./es/beginner/functions.md)
+  - Función `main`
   - [Espacio de nombres](./es/beginner/namespace.md)
-  - [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](./es/beginner/practice.md#ejercicio-3-evitando-coliciones-en-el-namespace)
+  - [***⮕ Ejercicio #3: Evitando colisiones en el `namespace` ⬅***](./es/beginner/practice.md#ejercicio-3-evitando-coliciones-en-el-namespace)
   - Arreglos
   - Condicional `if`
   - Condicional `switch`

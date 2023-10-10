@@ -132,5 +132,5 @@ Hola mundo!
 
 <hr><div align="center"><table><tr>
   <td><b><a href="./variables.md">⬅ Variables</a></b></td>
-  <td><b><a href="./practice.md#ejercicio-1-hello-world">Ejercicio #1: Hello World ⮕</a></b></td>
+  <td><b><a href="./functions.md">Funciones ⮕</a></b></td>
 </tr></table></div>

@@ -17,11 +17,12 @@ Además, puedes revisar la [sección de ejercicios](./practice.md) donde están 
 - [Comentarios](./comments.md)
 - [Variables](./variables.md)
 - [Tipos de datos](./data-types.md)
-- [Funcion `main`]
 - [Secuencias de escape]
 - [***⮕ Ejercicio #1: `Hello World!` ⬅***](./practice.md#ejercicio-1-hello-world)
 - [Operadores]
 - [***⮕ Ejercicio #2: A calcular! ⬅***](./practice.md#ejercicio-2-a-calcular)
+- [Funciones](./functions.md)
+- [Función `main`]
 - [Espacio de nombres](./namespace.md)
 - [***⮕ Ejercicio #3: Evitando coliciones en el `namespace` ⬅***](./practice.md#ejercicio-3-evitando-coliciones-en-el-namespace)
 - [Arreglos]
